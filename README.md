@@ -1,4 +1,4 @@
-**Image Processing for Milk Purity Detection with GLCM and Convolutional Neural Networks**
+# **Image Processing for Milk Purity Detection with GLCM and Convolutional Neural Networks**
 
 Repository ini berisi implementasi analisis citra digital untuk mendeteksi tingkat kemurnian susu menggunakan metode **Gray Level Co-occurrence Matrix (GLCM)** dan **Convolutional Neural Networks (CNN)**. Proyek ini bertujuan untuk mengeksplorasi tekstur dan pola visual dalam citra susu murni dan campuran larutan gula, serta memanfaatkan metode klasifikasi berbasis pembelajaran mesin.
 
