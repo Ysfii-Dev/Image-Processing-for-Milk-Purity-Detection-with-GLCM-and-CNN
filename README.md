@@ -52,9 +52,10 @@ Repository ini berisi implementasi analisis citra digital untuk mendeteksi tingk
 6. Gunakan **MLPClassifier** untuk klasifikasi berdasarkan fitur GLCM.
 7. Evaluasi model menggunakan metrik akurasi, presisi, recall, dan F1-score.
 
-### **Hasil Analisis:**
+### **Hasil Analisis**
 
-Hasil analisi yang telah dilakukan dapat dilihat ![File Hasil Analisis](output/Results_Hasil_Analisis.pdf)
+Hasil analisis yang telah dilakukan dapat diakses melalui tautan berikut:  
+[File Hasil Analisis](output/Results_Hasil_Analisis.pdf)
 
 ## Lisensi
 
